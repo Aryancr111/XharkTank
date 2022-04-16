@@ -1,3 +1,3 @@
 #!/bin/bash
 #End of line changed to LF
-./mvnw spring-boot:run
+./xharktank3/mvnw spring-boot:run
