@@ -3,7 +3,7 @@
 # Eg:- For Node.js project;
 #       npm run start
 # Eg:- For SpringBoot Project;
-#       ./gradlew bootRun
+      ./gradlew bootRun
 # Eg:- For Python Flask Project
 #       export FLASK_APP=main.py
 #       flask run
