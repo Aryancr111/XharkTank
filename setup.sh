@@ -3,6 +3,7 @@
 # Eg:- For Node.js project;
 #       npm install
 # Eg:- For Java Gradle Project;
+#EOL updated to unix LF
 chmod +x gradlew
 ./gradlew build
 # Eg:- For Python Project;
