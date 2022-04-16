@@ -1,4 +1,4 @@
 #!/bin/bash
 
 chmod +x gradlew
-./gradlew build
+./xharktank-backend/gradlew build
