@@ -1,4 +1,4 @@
 #!/bin/bash
 
-chmod +x gradlew
-./xharktank-backend/gradlew build
+chmod +x mvnw
+./mvnw clean install compile test
