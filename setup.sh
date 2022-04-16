@@ -3,7 +3,7 @@
 # Eg:- For Node.js project;
 #       npm install
 # Eg:- For Java Gradle Project;
-chmod +x ./gradlew
+chmod +x gradlew
 ./gradlew build
 # Eg:- For Python Project;
 #       pip install -r requirements.txt
